@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Eval2P2</string>
+    <string name="nouveau_button">nouveau</string>
+    <string name="no_arcticle">Pas d\'articles</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nameProduit">Entrer le nom du produit</string>
+    <string name="entrer_votre_quantit">Entrer votre quantité</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nouveau_button">nouveau</string>
+    <string name="no_arcticle">Pas d\'articles</string>
+    <string name="entrer_votre_quantit">Entrer votre quantité</string>
+</resources>
